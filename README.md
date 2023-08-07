@@ -14,6 +14,7 @@ Covers:
 
 * Youtube: `screencast` folder
 * Courses: other folders
+* [How to send transactions with Web3 and NodeJS?] (https://github.com/SmartWebstar/eattheblocks-tutorials-web3/blob/master/screencast/200-send-transaction-with-web3-nodejs/script.js)
 
 ## Courses
 
